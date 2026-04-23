@@ -1,0 +1,16 @@
+{
+  "current_capital": 100000,
+  "cash": 100000,
+  "positions": {},
+  "completed_trades": [],
+  "portfolio_history": [
+    {
+      "timestamp": "2026-04-24 00:03:19.381252",
+      "portfolio_value": 100000,
+      "cash": 100000,
+      "num_positions": 0,
+      "regime": "SIDEWAYS"
+    }
+  ],
+  "last_update": "2026-04-24T00:03:19.381267"
+}

@@ -1,0 +1,17 @@
+2026-04-24 00:03:10,516 - INFO - Exchange connection initialized
+2026-04-24 00:03:10,517 - INFO - Forward testing initialized with $100,000.00
+2026-04-24 00:03:10,517 - INFO - Starting strategy cycle at 2026-04-24 00:03:10.517289
+2026-04-24 00:03:16,705 - INFO - Current market regime: SIDEWAYS
+2026-04-24 00:03:19,382 - INFO - ============================================================
+2026-04-24 00:03:19,382 - INFO - PORTFOLIO STATUS
+2026-04-24 00:03:19,382 - INFO - ============================================================
+2026-04-24 00:03:19,382 - INFO - Initial Capital: $100,000.00
+2026-04-24 00:03:19,382 - INFO - Current Value:  $100,000.00
+2026-04-24 00:03:19,382 - INFO - Cash:          $100,000.00
+2026-04-24 00:03:19,383 - INFO - Total Return:   +0.00%
+2026-04-24 00:03:19,383 - INFO - Active Positions: 0
+2026-04-24 00:03:19,383 - INFO - Completed Trades: 0
+2026-04-24 00:03:19,383 - INFO - Current Regime: SIDEWAYS
+2026-04-24 00:03:19,384 - INFO - ============================================================
+2026-04-24 00:03:19,384 - INFO - Strategy cycle completed successfully
+2026-04-24 00:03:19,396 - INFO - Performance report generated and saved
